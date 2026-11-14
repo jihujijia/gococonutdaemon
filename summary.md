@@ -1,3 +1,0 @@
-# Scratch
-
-Quick notes here.
